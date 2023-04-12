@@ -1,12 +1,3 @@
-/*
- * @Author: GG
- * @Date: 2022-12-07 16:50:20
- * @LastEditTime: 2022-12-07 16:54:58
- * @LastEditors: GG
- * @Description: 深拷贝
- * @FilePath: \golang-utils\copy\copy.go
- *
- */
 package copy
 
 import (
